@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name = 'py_slack',
-    version = '0.0.0',
+    version = '0.0.1',
     author = 'Dane Morgan',
     author_email = 'danemorgan91@gmail.com',
     description = 'Basic webhook messaging, want to add bot interactivy next',

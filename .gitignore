@@ -1,3 +1,2 @@
-/__pycache.
-webhook*
-auth.py
+py_slack/__pycache__
+py_slack.egg-info
